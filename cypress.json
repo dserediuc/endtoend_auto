@@ -1,0 +1,9 @@
+{    
+    "env" :{
+        "dashboard":"https://dragos-chatwoot.herokuapp.com/",
+        "credentials":{
+            "email": "sv.dragos.serediuc@gmail.com",
+            "password": "Cognigy@123"
+        }
+    }
+}

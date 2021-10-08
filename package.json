@@ -1,0 +1,17 @@
+{
+  "name": "endtoend_auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "CognigyTests": "cypress run --spec cypress/integration/CognigyTests.js --browser chrome --headless"
+  },
+  "keywords": [],
+  "author": "Dragos Serediuc",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  },
+  "dependencies": {},
+  "description": "End to end tests with Cypress"
+}
